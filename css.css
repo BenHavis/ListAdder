@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main-container {
+    height: 90vh;
+    width: 90vw;
+}
+
+#buttons-container {
+    margin-left: 20%;
+}
+
+.input-group {
+    margin: 1%;
+}
+
+#list-div {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 18%;
+    width: 15%;
+    text-align: left;
+}
+
+ul {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+ul li {
+    margin-left: 1%;
+}
+
+p {
+    text-decoration: underline;
+}
+
+#test-list {
+    margin-left: 10%;
+}
+
+.test-class {
+    color: red;
+}
